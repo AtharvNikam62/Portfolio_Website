@@ -5,7 +5,7 @@ This project is a portfolio website that showcases skills, projects and achievem
 
 ⭐ The Home section is the landing page that displays my name, a brief introduction and a navigation bar that links to the other sections.
 
-⭐The About section is where I provide more information about myself, such as my education, hobbies and interests. I also list the technologies and tools that I am proficient in using.
+⭐The About section is where I provide more information about myself. I also list the technologies and tools that I am proficient in using.
 
 ⭐The Portfolio section is where I showcase some of the web projects that I have created or contributed to.
 
